@@ -8,6 +8,9 @@
 1-3をM回繰り返す
 
 （ベイズのエンコーダデコーダモデルに見える）
+<p align="center">
+  <img width="300px" src="https://user-images.githubusercontent.com/4949982/28462730-6bbd97b8-6e57-11e7-9807-b52eedd8fd88.png">
+</p>
 
 ## gensimのLDAで使うコーパスのフォーマットについて  
 
